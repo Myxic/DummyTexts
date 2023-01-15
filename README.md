@@ -6,4 +6,4 @@
  * Note: whitespaces are also characters.
 
 ## How to use 
-* This code takes 
+* ### To Generate a dummy text without specifying the number of charaters  
