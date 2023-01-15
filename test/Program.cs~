@@ -1,0 +1,86 @@
+﻿
+namespace test {
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            TownHall.DummyText("sjhdg");
+        }
+        public class TownHall
+        {
+            private static string DummyTxt;
+
+            private static string RepeatText;
+
+            private static int StandardCounter;
+
+            private static bool Logic;
+
+            public TownHall()
+            {
+                DummyTxt = "A Town Hall Is Different From Balablu, Bluehuhu, Bulabu";
+                RepeatText = ", Balablu, Bluehuhu, Bulabu";
+                StandardCounter = 10;
+                Logic = true;
+
+            }
+            public static string DummyText(string input)
+            {
+                try
+                {
+                    if (input.ToUpper() == "TOWNHALL")
+                    {
+
+                        return DummyTxt;
+                    }
+                    else
+                    {
+                        throw new Exception("Argument entered is invalid ");
+                    }
+
+                }
+                catch (Exception ex)
+                {
+                    return ex.Message;
+                }
+
+
+            }
+            public static string DummyText(string input, int count)
+            {
+                try
+                {
+
+                    if (input.ToUpper() == "TOWNHALL" && count! < StandardCounter)
+                    {
+                        string Dummy = DummyTxt;
+                        while (Logic)
+                        {
+                            if (StandardCounter < count)
+                            {
+                                Dummy += RepeatText;
+                                StandardCounter = Dummy.Length;
+                            }
+                            else
+                            {
+                                Logic = false;
+                            }
+                        }
+                        return Dummy.Substring(0, count);
+                    }
+                    else
+                    {
+                        throw new Exception("Argument entered is invalid ");
+                    }
+                }
+                catch (Exception ex)
+                {
+                    return ex.Message;
+                }
+
+
+            }
+        }
+    }
+}
+

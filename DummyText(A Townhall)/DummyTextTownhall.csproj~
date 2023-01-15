@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>DummyText A Townhall</RootNamespace>
+    <Description>This Libary will generate this dummy texts - “A Town Hall Is Different From Balablu, Bluehuhu, Bulabu”.
+You also have option to define how many characters you want to generate.
+There are also methods that allow you count the number of letters in a sentense and number of whitespaces in a sentense.
+Note: whitespaces are as characters.</Description>
+    <Configurations>Release;Debug</Configurations>
+  </PropertyGroup>
+
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DocumentationFile>bin\Release\netstandard2.0\DummyText%28A Townhall%29.xml</DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DocumentationFile>bin\Debug\netstandard2.0\DummyText%28A Townhall%29.xml</DocumentationFile>
+  </PropertyGroup>
+</Project>

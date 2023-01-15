@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DummyTextTownhall</id>
+    <version>1.0.0</version>
+    <authors>DummyTextTownhall</authors>
+    <description>This Libary will generate this dummy texts - “A Town Hall Is Different From Balablu, Bluehuhu, Bulabu”.
+You also have option to define how many characters you want to generate.
+There are also methods that allow you count the number of letters in a sentense and number of whitespaces in a sentense.
+Note: whitespaces are also characters.</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/DummyTexts/DummyText(A Townhall)/bin/Debug/netstandard2.0/DummyTextTownhall.dll" target="lib/netstandard2.0/DummyTextTownhall.dll" />
+    <file src="/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/DummyTexts/DummyText(A Townhall)/bin/Debug/netstandard2.0/DummyText(A Townhall).xml" target="lib/netstandard2.0/DummyText(A Townhall).xml" />
+  </files>
+</package>

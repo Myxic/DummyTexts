@@ -1,0 +1,11 @@
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/DummyTexts/DummyText(A Townhall)/bin/Debug/netstandard2.0/DummyText(A Townhall).xml
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/DummyTexts/DummyText(A Townhall)/bin/Debug/netstandard2.0/DummyTextTownhall.deps.json
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/DummyTexts/DummyText(A Townhall)/bin/Debug/netstandard2.0/DummyTextTownhall.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/DummyTexts/DummyText(A Townhall)/bin/Debug/netstandard2.0/DummyTextTownhall.pdb
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/DummyTexts/DummyText(A Townhall)/obj/Debug/netstandard2.0/DummyTextTownhall.csproj.AssemblyReference.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/DummyTexts/DummyText(A Townhall)/obj/Debug/netstandard2.0/DummyTextTownhall.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/DummyTexts/DummyText(A Townhall)/obj/Debug/netstandard2.0/DummyTextTownhall.AssemblyInfoInputs.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/DummyTexts/DummyText(A Townhall)/obj/Debug/netstandard2.0/DummyTextTownhall.AssemblyInfo.cs
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/DummyTexts/DummyText(A Townhall)/obj/Debug/netstandard2.0/DummyTextTownhall.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/DummyTexts/DummyText(A Townhall)/obj/Debug/netstandard2.0/DummyTextTownhall.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/DummyTexts/DummyText(A Townhall)/obj/Debug/netstandard2.0/DummyTextTownhall.pdb
