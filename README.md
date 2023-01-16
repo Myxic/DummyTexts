@@ -6,6 +6,7 @@
  * Note: whitespaces are also characters.
 
 ## How to use 
+* #### To use this library please make sure to use the word "townhall" to activate (anyother word will return an error) 
 * #### To Generate a dummy text without specifying the number of charaters  
 ``` 
 class Program
@@ -64,5 +65,6 @@ class Program
 ```
 
 ## To contribute to this library
-* The Code is below
- [title](https://www.example.com)
+*  
+ [DummyText Townhall CODE](https://github.com/Myxic/DummyTexts)
+*  [EMAIL](ezemenahi56@gmail.com)
