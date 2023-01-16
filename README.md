@@ -65,6 +65,5 @@ class Program
 ```
 
 ## To contribute to this library
-*  
- [DummyText Townhall CODE](https://github.com/Myxic/DummyTexts)
+* [DummyText Townhall CODE](https://github.com/Myxic/DummyTexts)
 *  [EMAIL](ezemenahi56@gmail.com)
