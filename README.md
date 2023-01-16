@@ -6,4 +6,15 @@
  * Note: whitespaces are also characters.
 
 ## How to use 
-* ### To Generate a dummy text without specifying the number of charaters  
+* #### To Generate a dummy text without specifying the number of charaters  
+'''
+class Program
+{
+    static void Main(string[] args)
+    {
+        TownHall DummyText = new();
+
+        Console.WriteLine(DummyText.DummyText("townhall"));
+    }
+}
+'''
