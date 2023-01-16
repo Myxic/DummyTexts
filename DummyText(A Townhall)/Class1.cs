@@ -27,7 +27,7 @@ namespace DummyText_A_Townhall_
             {
                 if (input.ToUpper() == "TOWNHALL")
                 {
-                    Console.WriteLine("heyhey");
+                    
                     return DummyTxt;
                 }
                 else

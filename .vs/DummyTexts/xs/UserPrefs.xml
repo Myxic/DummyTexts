@@ -5,8 +5,9 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="DummyText(A Townhall)/Class1.cs">
     <Files>
-      <File FileName="DummyText(A Townhall)/Class1.cs" Line="22" Column="1" />
+      <File FileName="DummyText(A Townhall)/Class1.cs" Line="32" Column="18" />
       <File FileName="DummyText(A Townhall)/DummyTextTownhall.csproj" Line="9" Column="22" />
+      <File FileName="test/Program.cs" Line="10" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,6 +15,7 @@
           <Node name="DummyTexts" expanded="True">
             <Node name="NuGet.Config files" expanded="True" />
             <Node name="DummyTextTownhall" expanded="True" selected="True" />
+            <Node name="test" expanded="True" />
           </Node>
         </State>
       </Pad>

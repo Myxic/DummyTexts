@@ -9,6 +9,8 @@ There are also methods that allow you count the number of letters in a sentense 
 Note: whitespaces are also characters.</Description>
     <Configurations>Release;Debug</Configurations>
     <UserSecretsId>7600722b-6de4-4b4b-901e-fe5954a5a5cc</UserSecretsId>
+    <ReleaseVersion>0.2</ReleaseVersion>
+    <SynchReleaseVersion>false</SynchReleaseVersion>
   </PropertyGroup>
 
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
