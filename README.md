@@ -7,7 +7,7 @@
 
 ## How to use 
 * #### To Generate a dummy text without specifying the number of charaters  
-''' c#
+``` 
 class Program
 {
     static void Main(string[] args)
@@ -16,5 +16,6 @@ class Program
         Console.WriteLine(DummyText.DummyText("townhall"));
     }
 }
+```
 
 
