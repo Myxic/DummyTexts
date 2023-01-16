@@ -1,13 +1,13 @@
 # DummyTexts
 ## About
  * This Libary will generate this dummy texts - “A Town Hall Is Different From Balablu, Bluehuhu, Bulabu”. 
- * You also have option to define how many characters you want to generate. 
- * There are also methods that allow you count the number of letters in a sentense and number of whitespaces in a sentense. 
+ * You also have the option to define how many characters you want to generate. 
+ * There are also methods that allow you to count the number of letters in a sentence and the number of whitespaces in a sentence. 
  * Note: whitespaces are also characters.
 
 ## How to use 
-* #### To use this library please make sure to use the word "townhall" to activate (anyother word will return an error) 
-* #### To Generate a dummy text without specifying the number of charaters  
+* #### To use this library please make sure to use the word "townhall" to activate (any other word will return an error) 
+* #### To Generate a dummy text without specifying the number of characters  
 ``` 
 class Program
 {
@@ -19,7 +19,7 @@ class Program
 }
 ```
 
-* #### To Generate a dummy text when specifying the number of charaters  
+* #### To Generate a dummy text when specifying the number of characters  
 ``` 
 class Program
 {
@@ -31,7 +31,7 @@ class Program
 }
 ```
 
-* #### To Check the number of Letters Avaliable in a sentence 
+* #### To Check the number of Letters available in a sentence 
 ``` 
 class Program
 {
