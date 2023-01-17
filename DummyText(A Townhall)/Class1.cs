@@ -16,10 +16,10 @@ namespace DummyText_A_Townhall_
         public TownHall()
         {
             DummyTxt = "A Town Hall Is Different From Balablu, Bluehuhu, Bulabu";
-            RepeatText = ", Balablu, Bluehuhu, Bulabu";
+            RepeatText = ", Balablu, Bulabu";
             StandardCounter = 10;
             Logic = true;
-
+            
         }
         public string DummyText(string input)
         {

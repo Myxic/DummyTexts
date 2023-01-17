@@ -1,4 +1,3 @@
-/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/DummyTexts/DummyText(A Townhall)/bin/Debug/netstandard2.0/DummyText(A Townhall).xml
 /Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/DummyTexts/DummyText(A Townhall)/bin/Debug/netstandard2.0/DummyTextTownhall.deps.json
 /Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/DummyTexts/DummyText(A Townhall)/bin/Debug/netstandard2.0/DummyTextTownhall.dll
 /Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/DummyTexts/DummyText(A Townhall)/bin/Debug/netstandard2.0/DummyTextTownhall.pdb
